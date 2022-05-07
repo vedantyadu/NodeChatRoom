@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <link href="css/style.css" rel="stylesheet">
+    <!--Insert your fontawesome script here-->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body>
+    <div class="main">
+        <div class="blocker-div">
+            <div class="username-div">
+                <input class="input username-input" placeholder="Username">
+                <button class="button enter-button"><i class="fa-solid fa-check"></i></button>
+            </div>
+        </div>
+        <div class="chat">
+            <div class="message-area"></div>
+            <div class="input-area">
+                <input class="input message-input" placeholder="Message">
+                <button class="button send-button"><i class="fa-solid fa-paper-plane"></i></button>
+            </div>
+        </div>
+    </div>
+    
+    <script src="http://localhost:5000/socket.io/socket.io.js"></script>
+    <script src="js/client.js"></script>
+
+</body>
+
+</html>
