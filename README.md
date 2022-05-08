@@ -19,4 +19,4 @@ node index.js
 ```
 
 ## Testing ##
-Open the chatroom in two different tabs and see the magic 🤩
+**Open the chatroom in two different tabs**
