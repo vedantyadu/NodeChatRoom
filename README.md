@@ -20,4 +20,4 @@ node index.js
 
 ## Testing ##
 **Open the chatroom in two different tabs**\
-👉If the demo is not working in the first try. Please try reloading.
+👉 If the demo is not working in the first try. Please try reloading.
